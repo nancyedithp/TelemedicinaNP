@@ -1,4 +1,3 @@
-public class Prueba{
-
-    
+public class Color{
+    public string Color;
 }
